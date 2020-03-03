@@ -12,3 +12,5 @@
 #https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623
 #https://medium.com/datadriveninvestor/an-introduction-to-grid-search-ff57adcc0998
 #https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV.predict
+#https://stackoverflow.com/questions/29086398/sklearn-turning-off-warnings
+#https://stackoverflow.com/questions/14463277/how-to-disable-python-warnings
